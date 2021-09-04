@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/AndroidStudioProjects/Watch/app/src/main/res/drawable/ic_round_skip_next.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/Watch/app/src/main/res/drawable/ic_round_skip_previous.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/Watch/app/src/main/res/drawable/rounded_button.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/Watch/app/src/main/res/layout/activity_main.xml" value="0.335" />
       </map>
     </option>
   </component>
